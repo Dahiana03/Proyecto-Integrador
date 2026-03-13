@@ -96,7 +96,7 @@ export const products = [
     category: 'Impresoras', 
     rating: 4.0,
     price: 2500000,
-    stock: 6,
+    stock: 8,
     image: 'https://via.placeholder.com/400?text=Sin+Imagen',
     description: 'Impresora multifunción con impresión, escaneo y copia, compatible con WiFi',
   },
